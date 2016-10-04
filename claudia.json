@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "graphviz-lambda-executor",
+    "name": "graphviz-lambda",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "6n1t2csgfa",
+    "module": "app"
+  }
+}
