@@ -2,8 +2,8 @@
 
 Great for using in markdown e.g.
 ```
-![](https://g.cns.me/?dot=chrisns/graphviz-lambda/master/example.dot)
+![](https://g.cns.me/chrisns/graphviz-lambda/master/example.dot)
 ```
 Renders
 
-![](https://g.cns.me/?dot=chrisns/graphviz-lambda/master/example.dot)
+![](https://g.cns.me/chrisns/graphviz-lambda/master/example.dot)
