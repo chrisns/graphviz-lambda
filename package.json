@@ -13,7 +13,7 @@
     "claudia": "^2.0.2"
   },
   "dependencies": {
-    "claudia-api-builder": "^2.0.0",
+    "claudia-api-builder": "^4.1.2",
     "request": "^2.75.0",
     "request-promise-native": "^1.0.3"
   }
