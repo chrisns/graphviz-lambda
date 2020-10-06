@@ -10,7 +10,7 @@
   "author": "Chris Nesbitt-Smith",
   "license": "MIT",
   "devDependencies": {
-    "claudia": "^2.0.2"
+    "claudia": "^5.12.0"
   },
   "dependencies": {
     "claudia-api-builder": "^2.0.0",
